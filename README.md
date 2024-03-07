@@ -51,10 +51,9 @@ These mods have nothing listed in compatibilty spreadsheet:
 * Mod Error Checker
 * Pets can eat from Wall Refrigiators
 * Better Surgery
-* More Slaves
-* Medicines+ 1.4
-* Vanilla Solar Shield Retextured
-* The Price is Right
+* More Slaves - seems okay, didn't fuss while trading
+* Medicines+ 1.4 - hypnotol seems bugged and throws errors but does not desync...
+* The Price is Right - seems okay, didn't fuss while trading
 * Tacticowl - it is listed as supported on MPCompat and its 3x base mods are compat
 * Float Sub-menus
 * Searchable Menus
@@ -84,6 +83,9 @@ Copy all configs in linux here:
 rsync -avh /home/garm/.config/unity3d/Ludeon\ Studios/RimWorld\ by\ Ludeon\ Studios/Config ./
 rsync -avh /home/garm/.config/unity3d/Ludeon\ Studios/RimWorld\ by\ Ludeon\ Studios/HugsLib ./
 rsync -avh /home/garm/.config/unity3d/Ludeon\ Studios/RimWorld\ by\ Ludeon\ Studios/ModLists ./
+git checkout Config/Knowledge.xml
+git checkout Config/Mod_1662119905_DubsMintMinimapMod.xml
+git checkout Config/Mod_2606448745_Multiplayer.xml
 ```
 
 ## References
