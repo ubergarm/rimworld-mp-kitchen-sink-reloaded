@@ -26,8 +26,6 @@
 			<col>RGBA(1.000, 0.000, 0.000, 1.000)</col>
 		</Hostiles>
 		<MousePingBind>Mouse4</MousePingBind>
-		<IcoScaleColonist>1</IcoScaleColonist>
-		<IcoScale>1</IcoScale>
 		<ShowCorpses>True</ShowCorpses>
 		<multi21>200</multi21>
 		<LastVersion>Dubs Mint Minimap 1.3.787</LastVersion>

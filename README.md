@@ -1,10 +1,7 @@
-RimWorld Multiplayer Kitchen Sink Reloaded Modpack
+RimWorld 1.4 Multiplayer Kitchen Sink Reloaded Modpack
 ===
-A RimWorld v1.4 Multiplayer Modpack
-
-*Work in Progress!*
-
-RimWorld v1.4
+[![License](https://i.creativecommons.org/l/by-nc/3.0/88x31.png)](https://creativecommons.org/licenses/by-nc/3.0/)
+[![Version](https://img.shields.io/badge/Rimworld-1.4-green.svg)](http://rimworldgame.com/)
 
 Suggested DLC:
 * Royalty
@@ -14,15 +11,14 @@ Multiplayer:
 * Zetrith's Multiplayer Mod
 * Multiplayer Compat
 
-A few years have gone by and now its time to try
-again. This modpack is a slightly less ambitious updated
-reload of a previous pack that never stopped desync'ing.
+A few years have gone by and now its time to try again. This modpack is
+a slightly less ambitious updated reload of a previous pack that never
+stopped desync'ing.
 
 ## Mod List
 `mpksr-v0.1.xml`
 
 ## Loose Stairs
-
 Known source of desyncs:
 
 * RimHud - don't click self-tend toggle in RIMHud UI - use Health Tab button instead!??
@@ -39,6 +35,7 @@ Known source of desyncs:
 * Designator Shapes - "flood fill" causes desyncs
 * Colony Groups - Group Menu -> Work -> Form Caravan desyncs, don't use any features except as a colonist bar replacement
 * Work Tab - don't use favorites menu it may desync
+* Yayo - don't use ammo as it is just too much more variables
 
 ## Unknown Quantities
 These mods have nothing listed in compatibilty spreadsheet:
@@ -66,9 +63,6 @@ These mods have nothing listed in compatibilty spreadsheet:
 * Faction Control 1.4
 * Deep Storage Plus (Continued)
 * No Skill Decay - claims to be native MP compat
-* Yayo Combat 3 Addon - base yayo supposedly is okay
-
-
 
 ## Testing
 
