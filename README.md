@@ -56,7 +56,6 @@ These mods have nothing listed in compatibilty spreadsheet:
 * Vanilla Solar Shield Retextured
 * The Price is Right
 * Tacticowl - it is listed as supported on MPCompat and its 3x base mods are compat
-* Settlement Quests
 * Float Sub-menus
 * Searchable Menus
 * ResearchPal - 1.4 Repackage
