@@ -1,5 +1,6 @@
 RimWorld 1.4 Multiplayer Kitchen Sink Reloaded Modpack
 ===
+![Rimworld 1.4 Multiplayer Kitchen Sink Reloaded Modpack Logo](mp-kitchen-sink-reloaded-logo-wide.png)
 [![License](https://i.creativecommons.org/l/by-nc/3.0/88x31.png)](https://creativecommons.org/licenses/by-nc/3.0/)
 [![Version](https://img.shields.io/badge/Rimworld-1.4-green.svg)](http://rimworldgame.com/)
 
@@ -15,8 +16,14 @@ A few years have gone by and now its time to try again. This modpack is
 a slightly less ambitious updated reload of a previous pack that never
 stopped desync'ing.
 
-## Mod List
-`mpksr-v0.1.xml`
+## Installation
+
+1. Click `Subscribe to all` on the ![Steam](https://i.imgur.com/XEAiSka.png) [Mod Collection](https://steamcommunity.com/sharedfiles/filedetails/?id=3174706609) (like and favorite if you choose)
+2. Download the [latest config files here](https://github.com/ubergarm/rimworld-mp-kitchen-sink-reloaded/archive/master.zip)
+3. Copy/paste the `Config`, `HugsLib`, and `ModLists` folders from the zip replacing yours e.g. `C:\Users\%USERPROFILE%\AppData\LocalLow\Ludeon Studios\RimWorld by Ludeon Studios\Config` or in Linux `~/.config/unity3d/Ludeon Studios/RimWorld by Ludeon Studios/Config`
+4. For now load the provided `mpksr-v0.1.xml` file after getting a basic mod list going with Hamony and Fluffy's Mod Manger
+
+TODO: Address pinning versions so nothing changes during a play-through...
 
 ## Loose Stairs
 Known source of desyncs:
@@ -72,14 +79,13 @@ of RimWorld.
 LC_ALL=C ~/.local/share/Steam/steamapps/common/RimWorld/RimWorldLinux -logfile /tmp/rimworld_test_client_log
 ```
 
+## Development
 Copy all configs in linux here:
 ```bash
 rsync -avh /home/garm/.config/unity3d/Ludeon\ Studios/RimWorld\ by\ Ludeon\ Studios/Config ./
 rsync -avh /home/garm/.config/unity3d/Ludeon\ Studios/RimWorld\ by\ Ludeon\ Studios/HugsLib ./
 rsync -avh /home/garm/.config/unity3d/Ludeon\ Studios/RimWorld\ by\ Ludeon\ Studios/ModLists ./
 ```
-
-
 
 ## References
 * [RimWorld Multiplayer Kitchen Sink Reloaded Modpack Steam Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=3174706609)
