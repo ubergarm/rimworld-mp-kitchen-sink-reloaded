@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <SettingsBlock>
 	<ModSettings Class="Multiplayer.Client.MpSettings">
-		<username>ubergarm</username>
+		<username>CHANGEME</username>
 		<chatRect>(704.0, 310.0, 640.0, 460.0)</chatRect>
 		<resolutionForChat>(2048.0, 1080.0)</resolutionForChat>
 		<playerColors>
