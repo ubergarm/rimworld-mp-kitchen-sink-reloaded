@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<settings>
+  <HugsLib>
+    <quickstartSettings>&lt;QuickstartSettings&gt;&lt;OperationMode&gt;Disabled&lt;/OperationMode&gt;&lt;MapSizeToGen&gt;250&lt;/MapSizeToGen&gt;&lt;StopOnErrors&gt;true&lt;/StopOnErrors&gt;&lt;StopOnWarnings&gt;false&lt;/StopOnWarnings&gt;&lt;BypassSafetyDialog&gt;false&lt;/BypassSafetyDialog&gt;&lt;/QuickstartSettings&gt;</quickstartSettings>
+    <logPublisherSettings>&lt;LogPublisherOptions&gt;&lt;UseCustomOptions&gt;false&lt;/UseCustomOptions&gt;&lt;UseUrlShortener&gt;false&lt;/UseUrlShortener&gt;&lt;IncludePlatformInfo&gt;false&lt;/IncludePlatformInfo&gt;&lt;AllowUnlimitedLogSize&gt;false&lt;/AllowUnlimitedLogSize&gt;&lt;/LogPublisherOptions&gt;</logPublisherSettings>
+  </HugsLib>
+  <DefensivePositions>
+    <vanillaKeyOverriden>True</vanillaKeyOverriden>
+  </DefensivePositions>
+  <Autopsy>
+    <tabs>Animal Autopsy</tabs>
+    <basicAutopsyNumberParts>3</basicAutopsyNumberParts>
+    <advancedAutopsyBionicChance>0.1995614</advancedAutopsyBionicChance>
+    <advancedAutopsyNumberParts>5</advancedAutopsyNumberParts>
+    <glitterAutopsyNumberParts>8</glitterAutopsyNumberParts>
+    <animalAutopsyBionicChance>0.4013158</animalAutopsyBionicChance>
+    <animalAutopsyNumberParts>5</animalAutopsyNumberParts>
+  </Autopsy>
+</settings>

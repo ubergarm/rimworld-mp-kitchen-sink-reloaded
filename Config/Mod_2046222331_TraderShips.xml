@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SettingsBlock>
+	<ModSettings Class="TraderShips.TraderShipsSettings">
+		<disableOrbital>True</disableOrbital>
+		<colors>True</colors>
+		<requireCommsConsole>True</requireCommsConsole>
+		<enableQuests>True</enableQuests>
+		<shipColorSaturation>-50~100</shipColorSaturation>
+		<shipColorValue>50~100</shipColorValue>
+	</ModSettings>
+</SettingsBlock>

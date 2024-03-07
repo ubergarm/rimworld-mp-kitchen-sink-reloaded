@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SettingsBlock>
+	<ModSettings Class="MoreFactionInteraction.MoreFactionInteraction_Settings">
+		<ticksToUpgrade>3007453</ticksToUpgrade>
+		<enableAnnualExpo>False</enableAnnualExpo>
+		<timeModifierBetweenFactionInteraction>1</timeModifierBetweenFactionInteraction>
+		<traderWealthOffsetFromTimesTraded>0.699999988</traderWealthOffsetFromTimesTraded>
+		<MFI_pirateBaseUpgraderModifier>0.601552784</MFI_pirateBaseUpgraderModifier>
+	</ModSettings>
+</SettingsBlock>

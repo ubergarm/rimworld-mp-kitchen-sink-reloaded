@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SettingsBlock>
+	<ModSettings Class="DSGUI.DSGUISettings">
+		<DSGUI_IconScalingLabel>1</DSGUI_IconScalingLabel>
+		<DSGUI_BoxHeightLabel>32</DSGUI_BoxHeightLabel>
+		<DSGUI_FontScalingLabel>14</DSGUI_FontScalingLabel>
+		<DSGUI_SortOrdersLabel>True</DSGUI_SortOrdersLabel>
+		<DSGUI_SavePosSizeLabel>True</DSGUI_SavePosSizeLabel>
+		<DSGUI_DrawDividersRowsLabel>True</DSGUI_DrawDividersRowsLabel>
+		<DSGUI_DrawDividersColumnsLabel>True</DSGUI_DrawDividersColumnsLabel>
+		<DSGUI_Tab_DrawDividersColumnsLabel>True</DSGUI_Tab_DrawDividersColumnsLabel>
+		<DSGUI_Tab_IconScalingLabel>1</DSGUI_Tab_IconScalingLabel>
+		<DSGUI_Tab_BoxHeightLabel>32</DSGUI_Tab_BoxHeightLabel>
+		<DSGUI_Tab_FontScalingLabel>14</DSGUI_Tab_FontScalingLabel>
+		<DSGUI_Tab_SortOrdersLabel>True</DSGUI_Tab_SortOrdersLabel>
+		<DSGUI_Tab_DrawDividersRowsLabel>True</DSGUI_Tab_DrawDividersRowsLabel>
+		<DSGUI_Tab_DrawDividersColumnsLabel>True</DSGUI_Tab_DrawDividersColumnsLabel>
+	</ModSettings>
+</SettingsBlock>

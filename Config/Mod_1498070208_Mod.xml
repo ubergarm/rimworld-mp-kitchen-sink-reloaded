@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SettingsBlock>
+	<ModSettings Class="The_Price_Is_Right.Settings">
+		<tradeBonus>0.300000012</tradeBonus>
+		<moodBonus0>25</moodBonus0>
+		<moodBonus1>35</moodBonus1>
+	</ModSettings>
+</SettingsBlock>

@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SettingsBlock>
+	<ModSettings Class="TacticalGroups.TacticalGroupsSettings">
+		<MarginTop>21</MarginTop>
+		<ColonistBarPositionX>24</ColonistBarPositionX>
+		<ColonistBarSpacingX>20</ColonistBarSpacingX>
+		<ColonistBarSpacingY>32</ColonistBarSpacingY>
+		<ColonyGroupScale>0.800000012</ColonyGroupScale>
+		<GroupScale>0.699999988</GroupScale>
+		<PawnNeedsWidth>4</PawnNeedsWidth>
+		<HealthBarWidth>6</HealthBarWidth>
+		<XPawnIconOffset>0</XPawnIconOffset>
+		<YPawnIconOffset>0</YPawnIconOffset>
+		<PawnBoxHeight>48</PawnBoxHeight>
+		<PawnBoxWidth>48</PawnBoxWidth>
+		<PawnCameraOffsetX>0</PawnCameraOffsetX>
+		<PawnCameraOffsetZ>0.300000012</PawnCameraOffsetZ>
+		<PawnScale>1</PawnScale>
+		<WeaponShowScale>1</WeaponShowScale>
+		<ColonistBarWidthOffset>0</ColonistBarWidthOffset>
+		<AllGroupPresetsSaveable IsNull="True" />
+	</ModSettings>
+</SettingsBlock>

@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SettingsBlock>
+	<ModSettings Class="FollowMe.Settings">
+		<followMeKey>
+			<label>Toggle following selected</label>
+			<key>Home</key>
+		</followMeKey>
+		<cinematicCameraKey>
+			<label>Toggle cinematic camera</label>
+			<modifiers>Shift</modifiers>
+			<key>LeftBracket</key>
+		</cinematicCameraKey>
+	</ModSettings>
+</SettingsBlock>

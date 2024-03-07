@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SettingsBlock>
+	<ModSettings Class="LWM.DeepStorage.Settings">
+		<storing_global_scale>1</storing_global_scale>
+		<robotsCanUse>False</robotsCanUse>
+		<useRightClickLogic>False</useRightClickLogic>
+	</ModSettings>
+</SettingsBlock>

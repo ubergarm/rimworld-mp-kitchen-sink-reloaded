@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SettingsBlock>
+	<ModSettings Class="GrazingLands.Settings">
+		<multiplier>0</multiplier>
+		<consumeChance2>0</consumeChance2>
+		<yieldDamage>0</yieldDamage>
+	</ModSettings>
+</SettingsBlock>

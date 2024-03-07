@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SettingsBlock>
+	<ModSettings Class="SmartStockpileCreation.Settings">
+		<UseHigherPriorityStockpiles>True</UseHigherPriorityStockpiles>
+		<StoragePriority>Preferred</StoragePriority>
+	</ModSettings>
+</SettingsBlock>

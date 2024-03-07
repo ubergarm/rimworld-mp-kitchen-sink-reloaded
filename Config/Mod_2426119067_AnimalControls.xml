@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SettingsBlock>
+	<ModSettings Class="AnimalControls.Settings">
+		<nutrition_limit_per_piece>0.100000001</nutrition_limit_per_piece>
+	</ModSettings>
+</SettingsBlock>

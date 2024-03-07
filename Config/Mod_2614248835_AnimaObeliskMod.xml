@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SettingsBlock>
+	<ModSettings Class="PsyObelisk.Settings.Settings">
+		<psyFocusDecayRate>5</psyFocusDecayRate>
+		<psyFocusGetTime>10</psyFocusGetTime>
+	</ModSettings>
+</SettingsBlock>

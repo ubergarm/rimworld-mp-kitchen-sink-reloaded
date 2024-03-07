@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SettingsBlock>
+	<ModSettings Class="WMHAnimalBehaviours.WMH_Settings">
+		<WMH_QuestMultiplier>1</WMH_QuestMultiplier>
+	</ModSettings>
+</SettingsBlock>

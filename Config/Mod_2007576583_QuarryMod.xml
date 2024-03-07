@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SettingsBlock>
+	<ModSettings Class="Quarry.QuarrySettings">
+		<QRY_mineTicksVariance>4050</QRY_mineTicksVariance>
+		<QRY_resourceModifer>1</QRY_resourceModifer>
+		<QRY_reclaimedSoilFertility>0.25</QRY_reclaimedSoilFertility>
+		<QRY_OreDictionary>
+			<li>
+				<thingDef>Steel</thingDef>
+				<weight>0</weight>
+				<count>112</count>
+			</li>
+			<li>
+				<thingDef>Silver</thingDef>
+				<weight>0</weight>
+				<count>3</count>
+			</li>
+			<li>
+				<thingDef>Gold</thingDef>
+				<weight>0</weight>
+				<count>3</count>
+			</li>
+			<li>
+				<thingDef>Uranium</thingDef>
+				<weight>0</weight>
+				<count>8</count>
+			</li>
+			<li>
+				<thingDef>Plasteel</thingDef>
+				<weight>0</weight>
+				<count>8</count>
+			</li>
+			<li>
+				<thingDef>Jade</thingDef>
+				<weight>0</weight>
+				<count>4</count>
+			</li>
+			<li>
+				<thingDef>AA_SkySteel</thingDef>
+				<weight>0</weight>
+			</li>
+			<li>
+				<thingDef>ComponentIndustrial</thingDef>
+				<weight>0</weight>
+			</li>
+		</QRY_OreDictionary>
+	</ModSettings>
+</SettingsBlock>

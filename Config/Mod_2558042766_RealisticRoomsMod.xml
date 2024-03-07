@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SettingsBlock>
+	<ModSettings Class="RealisticRoomsRewritten.RealisticRoomsSettings">
+		<minSpaceRatherTight>6.5</minSpaceRatherTight>
+		<minSpaceAverageSized>16.5</minSpaceAverageSized>
+		<minSpaceSomewhatSpacious>28.5</minSpaceSomewhatSpacious>
+		<minSpaceQuiteSpacious>49.5</minSpaceQuiteSpacious>
+		<minSpaceVerySpacious>84.5</minSpaceVerySpacious>
+		<minSpaceExtremelySpacious>174.5</minSpaceExtremelySpacious>
+	</ModSettings>
+</SettingsBlock>

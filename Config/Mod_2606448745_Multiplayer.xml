@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SettingsBlock>
+	<ModSettings Class="Multiplayer.Client.MpSettings">
+		<username>ubergarm</username>
+		<chatRect>(704.0, 310.0, 640.0, 460.0)</chatRect>
+		<resolutionForChat>(2048.0, 1080.0)</resolutionForChat>
+		<playerColors>
+			<li>
+				<g>125</g>
+				<b>255</b>
+			</li>
+			<li>
+				<r>255</r>
+			</li>
+			<li>
+				<g>255</g>
+				<b>45</b>
+			</li>
+			<li>
+				<r>255</r>
+				<b>150</b>
+			</li>
+			<li>
+				<r>80</r>
+				<g>250</g>
+				<b>250</b>
+			</li>
+			<li>
+				<r>200</r>
+				<g>255</g>
+				<b>75</b>
+			</li>
+			<li>
+				<r>100</r>
+				<b>75</b>
+			</li>
+		</playerColors>
+		<serverSettings>
+			<maxPlayers>4</maxPlayers>
+			<autosaveInterval>1</autosaveInterval>
+			<direct>True</direct>
+		</serverSettings>
+	</ModSettings>
+</SettingsBlock>

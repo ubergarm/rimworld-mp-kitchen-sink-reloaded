@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SettingsBlock>
+	<ModSettings Class="Tacticowl.ModSettings_Tacticowl">
+		<accuracyPenalty>0.649999976</accuracyPenalty>
+		<accuracyPenaltyPlayer>0.649999976</accuracyPenaltyPlayer>
+		<accuracyModifierMechs>0.800000012</accuracyModifierMechs>
+		<movementModifierHeavy>0.300000012</movementModifierHeavy>
+		<movementModifierLight>0.649999976</movementModifierLight>
+		<heavyWeapons />
+		<forbiddenWeapons />
+		<offHanders />
+		<twoHanders />
+		<customRotations>
+			<keys />
+			<values />
+		</customRotations>
+		<staticCooldownPOffHand>20</staticCooldownPOffHand>
+		<staticCooldownPMainHand>10</staticCooldownPMainHand>
+		<staticAccPOffHand>10</staticAccPOffHand>
+		<staticAccPMainHand>10</staticAccPMainHand>
+		<dynamicCooldownP>5</dynamicCooldownP>
+		<dynamicAccP>0.5</dynamicAccP>
+		<meleeAngle>42</meleeAngle>
+		<rangedAngle>135</rangedAngle>
+		<meleeXOffset>0.239999995</meleeXOffset>
+		<rangedXOffset>0.100000001</rangedXOffset>
+		<meleeZOffset>0.0900000036</meleeZOffset>
+		<rangedZOffset>0</rangedZOffset>
+		<projectileSpeedMulti>1</projectileSpeedMulti>
+	</ModSettings>
+</SettingsBlock>
