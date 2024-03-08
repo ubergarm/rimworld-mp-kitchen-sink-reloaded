@@ -32,8 +32,8 @@ Known source of desyncs:
 * More Faction Interaction - Avoid Help With Harvest, Diplomatic Marriage, Annual Expo Event (disable this one in config)
 * Numbers - Hunt/Tame in Wildlife Tab causes desync (use the overworld gizmo instead)
 * Vanilla Persona Weapons Expanded - changing persona weapon appearence causes desync, reachin baron/baroness and picking a custom persona weapon causes desync (have server do it alone and save)
-* Vanilla Hair Expanded - don't use the barber table
-* Set Up Camp - has bugs with multi-faction multiplayer mode (seems okay otherwise?)
+* Vanilla Hair Expanded - don't use the barber table (removed it with cherrypicker)
+* Set Up Camp - has bugs with multi-faction multiplayer mode (tested okay with normal mode)
 * Smart Medicine - just to be safe I disabled stock-up in the configs, you can manually pickup some meds to your doc's inventory - maybe fixed but i'm being safe as it was an old issue psure
 * Replace Stuff - don't use replace tool, just place new materials over old ones instead
 * Grazing Lands - chance to destroy grass on consumption must remain 0% - just use default config and should be safe
@@ -62,7 +62,7 @@ These mods have nothing listed in compatibilty spreadsheet:
 * Heat Map (Continued) - so far so good
 * Grenade Fix - Rearmed - psure the old one was okay
 * Fluffy Breakdowns - should be fine, the old one seemed to work okay
-* Fermenter (Continued)
+* Fermenter (Continued) - claims to have native multiplayer support and in limited testing didn't desync
 * Faction Control 1.4 - in limited testing seems okay
 * Deep Storage Plus (Continued) - so far so good, the old one was fine
 
