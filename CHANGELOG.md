@@ -1,3 +1,12 @@
+## v0.3
+* add [fsf] complex jobs
+* add electric stonecutting table
+* remove lights out (seems fine, but just more jobs for pawns to do leave the lights on lol, also have time-of-day switches)
+* tweak configs faction interaction to dial back pirate expanding chance (as we have 3 pirate factions)
+* tweak configs colony groups for a nice 5x red to green hex code mood color bar
+* considered CM Color Coded Mood Bar (but passed as colony groups does enough)
+* consider better pawn control over compositable loadouts (unfortunately, bpc is not likely MP compat)
+
 ## v0.2
 * add Cherry Picker
 * cherry pick remove medicines+ hypnotol

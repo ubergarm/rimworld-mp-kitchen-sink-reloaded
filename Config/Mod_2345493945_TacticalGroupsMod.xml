@@ -1,6 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <SettingsBlock>
 	<ModSettings Class="TacticalGroups.TacticalGroupsSettings">
+		<DisplayColorBars>True</DisplayColorBars>
 		<MarginTop>21</MarginTop>
 		<ColonistBarPositionX>24</ColonistBarPositionX>
 		<ColonistBarSpacingX>20</ColonistBarSpacingX>
@@ -16,7 +17,13 @@
 		<PawnCameraOffsetX>0</PawnCameraOffsetX>
 		<PawnCameraOffsetZ>0.300000012</PawnCameraOffsetZ>
 		<PawnScale>1</PawnScale>
+		<ColorBarMode>Extended</ColorBarMode>
 		<WeaponShowScale>1</WeaponShowScale>
+		<ExtendedMoodBarLowerII>RGBA(0.898, 0.122, 0.122, 1.000)</ExtendedMoodBarLowerII>
+		<ExtendedMoodBarLower>RGBA(0.949, 0.631, 0.204, 1.000)</ExtendedMoodBarLower>
+		<ExtendedMoodBarMiddle>RGBA(0.969, 0.890, 0.475, 1.000)</ExtendedMoodBarMiddle>
+		<ExtendedMoodBarUpper>RGBA(0.733, 0.859, 0.267, 1.000)</ExtendedMoodBarUpper>
+		<ExtendedMoodBarUpperII>RGBA(0.267, 0.808, 0.106, 1.000)</ExtendedMoodBarUpperII>
 		<ColonistBarWidthOffset>0</ColonistBarWidthOffset>
 		<AllGroupPresetsSaveable IsNull="True" />
 	</ModSettings>
