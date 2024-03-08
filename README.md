@@ -21,7 +21,6 @@ stopped desync'ing.
 1. Click `Subscribe to all` on the ![Steam](https://i.imgur.com/XEAiSka.png) [Mod Collection](https://steamcommunity.com/sharedfiles/filedetails/?id=3174706609) (like and favorite if you choose)
 2. Download the [latest config files here](https://github.com/ubergarm/rimworld-mp-kitchen-sink-reloaded/archive/master.zip)
 3. Copy/paste the `Config`, `HugsLib`, and `ModLists` folders from the zip replacing yours e.g. `C:\Users\%USERPROFILE%\AppData\LocalLow\Ludeon Studios\RimWorld by Ludeon Studios\Config` or in Linux `~/.config/unity3d/Ludeon Studios/RimWorld by Ludeon Studios/Config`
-4. For now load the provided `mpksr-v0.1.xml` file after getting a basic mod list going with Hamony and Fluffy's Mod Manger
 
 TODO: Address pinning versions so nothing changes during a play-through...
 
@@ -69,6 +68,15 @@ These mods have nothing listed in compatibilty spreadsheet:
 * Deep Storage Plus (Continued)
 * No Skill Decay - claims to be native MP compat
 
+## TODO
+
+Things to try to Cherry Pick Remove:
+- VFECore.Misc.StatPart_Ammo
+- HackingSpeed
+- Medical Tab :: Tag Tongue
+- AT_MedicinesPlus Hediff_HypnotolAddiction
+- Alpha Genes Ocular Affinity (removed ocular jelly due to desync, don't want it to spawn with one)
+
 ## Testing
 
 Start up an MP server and connect to yourself by starting a second copy
@@ -80,12 +88,7 @@ LC_ALL=C ~/.local/share/Steam/steamapps/common/RimWorld/RimWorldLinux -logfile /
 ## Development
 Copy all configs in linux here:
 ```bash
-rsync -avh /home/garm/.config/unity3d/Ludeon\ Studios/RimWorld\ by\ Ludeon\ Studios/Config ./
-rsync -avh /home/garm/.config/unity3d/Ludeon\ Studios/RimWorld\ by\ Ludeon\ Studios/HugsLib ./
-rsync -avh /home/garm/.config/unity3d/Ludeon\ Studios/RimWorld\ by\ Ludeon\ Studios/ModLists ./
-git checkout Config/Knowledge.xml
-git checkout Config/Mod_1662119905_DubsMintMinimapMod.xml
-git checkout Config/Mod_2606448745_Multiplayer.xml
+./update.sh
 ```
 
 ## References
