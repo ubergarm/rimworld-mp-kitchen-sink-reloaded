@@ -21,8 +21,11 @@ stopped desync'ing.
 1. Click `Subscribe to all` on the ![Steam](https://i.imgur.com/XEAiSka.png) [Mod Collection](https://steamcommunity.com/sharedfiles/filedetails/?id=3174706609) (like and favorite if you choose)
 2. Download the [latest config files here](https://github.com/ubergarm/rimworld-mp-kitchen-sink-reloaded/archive/master.zip)
 3. Copy/paste the `Config` and `HugsLib` folders from the zip replacing yours e.g. `C:\Users\%USERPROFILE%\AppData\LocalLow\Ludeon Studios\RimWorld by Ludeon Studios\Config` or in Linux `~/.config/unity3d/Ludeon Studios/RimWorld by Ludeon Studios/Config`
+4. Workshops mods constantly change so pin them by zipping `~/.steam/steam/steamapps/workshop/content/294100/*` and vendoring it to clients to unzip into `~/.steam/steam/steamapps/common/RimWorld/Mods/`. Don't use the "make local copies" as it messes up the mod names and patches are not properly applied.
+TODO: put a link to the windows version of the above directories.. Probably AppData something something...
 
-TODO: Address pinning versions so nothing changes during a play-through...
+You can skip step 4, but it may be possible mod updates will break the MP compat of the pack during a long playthrough.
+Once you are using local versions of the mods, just ignore the mod manager notes about updated versions.
 
 ## Loose Stairs
 Known source of desyncs:
