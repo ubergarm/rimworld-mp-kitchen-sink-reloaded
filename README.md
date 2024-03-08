@@ -42,7 +42,7 @@ Known source of desyncs:
 * Designator Shapes - "flood fill" causes desyncs
 * Colony Groups - Group Menu -> Work -> Form Caravan desyncs, don't use any features except as a colonist bar replacement
 * Work Tab - don't use favorites menu it may desync
-* Yayo - don't use ammo as it is just too much more variables
+* Yayo - not known for desyncs, but just to be safe use ammo as it is just too much more variables
 
 ## Unknown Quantities
 These mods have nothing listed in compatibilty spreadsheet:

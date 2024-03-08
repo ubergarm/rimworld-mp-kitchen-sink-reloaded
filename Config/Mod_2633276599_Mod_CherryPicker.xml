@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SettingsBlock>
+	<ModSettings Class="CherryPicker.ModSettings_CherryPicker">
+		<keys>
+			<li>ThingDef/AddictiveHypnotol</li>
+			<li>RecipeDef/Administer_AddictiveHypnotol</li>
+			<li>HediffDef/HypnotolHigh</li>
+			<li>HediffDef/HypnotolTolerance</li>
+			<li>HediffDef/HypnotolAddiction</li>
+			<li>ThoughtDef/HypnotolAddictionThought</li>
+			<li>GeneDef/ChemicalDependency_Hypnotol</li>
+			<li>GeneDef/AddictionResistant_Hypnotol</li>
+			<li>GeneDef/AddictionImmune_Hypnotol</li>
+			<li>ThingDef/VHE_TableBarber</li>
+		</keys>
+	</ModSettings>
+</SettingsBlock>
