@@ -1,6 +1,10 @@
 ## v0.4
 * remove reinforced structures (already have embrasures for all in concrete walls mod and less obnoxious research)
 * considered tiered concrete but went with known and trusted concrete walls
+* add vanilla psycasts expanded
+* remove choice of psycasts
+* considered vpe biotech integration (skipped it as gets too complex for my n00b tastes and untested)
+* considered vpe biotech integration for alpha animals and more (alpha animals already has this it seems?)
 
 ## v0.3
 * add [fsf] complex jobs
