@@ -2,6 +2,7 @@
 * add Cherry Picker
 * cherry pick remove medicines+ hypnotol
 * cherry pick remove vanilla hair expanded barber table
+* cherry pick remove alpha genetics ocular affinity (ocular jellyfish may desync)
 * remove Settlements Quests
 * remove Yayo Addon
 * remove RT Solar Shield

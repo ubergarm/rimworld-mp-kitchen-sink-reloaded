@@ -12,6 +12,7 @@
 			<li>GeneDef/AddictionResistant_Hypnotol</li>
 			<li>GeneDef/AddictionImmune_Hypnotol</li>
 			<li>ThingDef/VHE_TableBarber</li>
+			<li>GeneDef/AG_OcularJellyAffinity</li>
 		</keys>
 	</ModSettings>
 </SettingsBlock>

@@ -46,39 +46,27 @@ Known source of desyncs:
 ## Unknown Quantities
 These mods have nothing listed in compatibilty spreadsheet:
 
-* Startup Impact 1.4
-* Mod Error Checker
-* Pets can eat from Wall Refrigiators
-* Better Surgery
+* Startup Impact 1.4 - only for testing
+* Mod Error Checker - only for testing
+* Better Surgery - tested okay, failed catastrophic surgery and no desyncs. seems like a good mod!
 * More Slaves - seems okay, didn't fuss while trading
 * Medicines+ 1.4 - hypnotol seems bugged and throws errors but does not desync...
 * The Price is Right - seems okay, didn't fuss while trading
 * Tacticowl - it is listed as supported on MPCompat and its 3x base mods are compat
-* Float Sub-menus
-* Searchable Menus
-* ResearchPal - 1.4 Repackage
-* Invisible Conduit
-* Incident Person Stat (Continued)
-* Holy Washer (Continued)
-* Heat Map (Continued)
-* Grenad Fix - Rearmed
-* Fluffy Breakdowns
+* Float Sub-menus - for the searchable menus, so must be okay
+* Searchable Menus - working okay so far, looks great and works well!
+* ResearchPal - 1.4 Repackage - so far so good in very limited testing
+* Invisible Conduit - it used to work, hopefully still fine
+* Incident Person Stat (Continued) - seems okay, just adds more info to existing quest dialogues
+* Holy Washer (Continued) - tested good
+* Heat Map (Continued) - so far so good
+* Grenade Fix - Rearmed - psure the old one was okay
+* Fluffy Breakdowns - should be fine, the old one seemed to work okay
 * Fermenter (Continued)
-* Faction Control 1.4
-* Deep Storage Plus (Continued)
-* No Skill Decay - claims to be native MP compat
-
-## TODO
-
-Things to try to Cherry Pick Remove:
-- VFECore.Misc.StatPart_Ammo
-- HackingSpeed
-- Medical Tab :: Tag Tongue
-- AT_MedicinesPlus Hediff_HypnotolAddiction
-- Alpha Genes Ocular Affinity (removed ocular jelly due to desync, don't want it to spawn with one)
+* Faction Control 1.4 - in limited testing seems okay
+* Deep Storage Plus (Continued) - so far so good, the old one was fine
 
 ## Testing
-
 Start up an MP server and connect to yourself by starting a second copy
 of RimWorld.
 ```bash
