@@ -1,3 +1,7 @@
+## v0.4
+* remove reinforced structures (already have embrasures for all in concrete walls mod and less obnoxious research)
+* considered tiered concrete but went with known and trusted concrete walls
+
 ## v0.3
 * add [fsf] complex jobs
 * add electric stonecutting table
