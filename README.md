@@ -29,7 +29,7 @@ Known source of desyncs:
 
 * RimHud - don't click self-tend toggle in RIMHud UI - use Health Tab button instead!??
 * Alpha Genes - don't use string genes to transmit genes to selected target (is bugged, only xfers names but not genes)??
-* More Faction Interaction - Avoid Help With Harvest, Diplomatic Marriage, Annual Expo Event (disable this one in config)
+* More Faction Interaction - Avoid Help With Harvest, Diplomatic Marriage, Annual Expo Event (disabled this in config)
 * Numbers - Hunt/Tame in Wildlife Tab causes desync (use the overworld gizmo instead)
 * Vanilla Persona Weapons Expanded - changing persona weapon appearence causes desync, reachin baron/baroness and picking a custom persona weapon causes desync (have server do it alone and save)
 * Vanilla Hair Expanded - don't use the barber table (removed it with cherrypicker)
@@ -41,7 +41,7 @@ Known source of desyncs:
 * Designator Shapes - "flood fill" causes desyncs
 * Colony Groups - Group Menu -> Work -> Form Caravan desyncs, don't use any features except as a colonist bar replacement
 * Work Tab - don't use favorites menu it may desync
-* Yayo - not known for desyncs, but just to be safe use ammo as it is just too much more variables
+* Yayo - not known for desyncs, but just to be safe disable ammo as it is just too much more variables
 
 ## Unknown Quantities
 These mods have nothing listed in compatibilty spreadsheet:
