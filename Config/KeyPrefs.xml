@@ -645,6 +645,20 @@
     </value>
   </li>
   <li>
+    <key>HotkeyEditor</key>
+    <value>
+      <keyBindingA>None</keyBindingA>
+      <keyBindingB>None</keyBindingB>
+    </value>
+  </li>
+  <li>
+    <key>HotkeyTeleport</key>
+    <value>
+      <keyBindingA>None</keyBindingA>
+      <keyBindingB>None</keyBindingB>
+    </value>
+  </li>
+  <li>
     <key>PaintingTool</key>
     <value>
       <keyBindingA>None</keyBindingA>

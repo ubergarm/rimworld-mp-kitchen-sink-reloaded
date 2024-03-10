@@ -1,3 +1,12 @@
+## v0.5
+* remove Fluffy's Work Tab as it seemed to be causing frozen pawns/mechanoids/animals and making clients unable to join while dev log spammed errors. removing it seems to fix.
+* remove Fluffy's Mod Manager as it is not recommended on RimWorld Multiplayer Discord
+* remove EDB Prepare Carefully as it is not recommended on RimWorld Multiplayer Discord
+* remove Gloomy Face mk2 because it seems to overwrite vanilla faces instead of giving additional options
+* remove Dub's Paint Shop because we don't use it and it adds complexity
+* remove Designator Shapes because we don't use it much and it adds complexity (and flood fill may be a loose stair)
+* add Character Editor - don't edit items in MP saves. can use this to bootstrap friends characters into a game etc.
+
 ## v0.4
 * remove reinforced structures (already have embrasures for all in concrete walls mod and less obnoxious research)
 * considered tiered concrete but went with known and trusted concrete walls

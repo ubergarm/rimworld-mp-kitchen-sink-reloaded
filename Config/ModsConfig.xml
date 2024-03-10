@@ -12,6 +12,7 @@
     <li>unlimitedhugs.hugslib</li>
     <li>taranchuk.moderrorchecker</li>
     <li>owlchemist.cherrypicker</li>
+    <li>void.charactereditor</li>
     <li>oskarpotocki.vanillafactionsexpanded.core</li>
     <li>vanillaexpanded.vpsycastse</li>
     <li>jaxe.rimhud</li>
@@ -27,7 +28,6 @@
     <li>kikohi.bettergroundpenetratingscanner</li>
     <li>gege.bettersurgery</li>
     <li>wiri.compositableloadouts</li>
-    <li>dubwise.dubspaintshop</li>
     <li>dubwise.rimatomics</li>
     <li>dubwise.dubsskylights</li>
     <li>smartkar.enhancedvatlearning</li>
@@ -133,7 +133,6 @@
     <li>ogliss.ykara.harvesteverything</li>
     <li>smuffle.harvestorganspostmortem</li>
     <li>klr.gloomyhairmk2forked</li>
-    <li>gloomy.gloomyfacemk2.1.4</li>
     <li>owlchemist.giddyup</li>
     <li>danielwedemeyer.generipper</li>
     <li>uuugggg.gearupandgo</li>
@@ -150,7 +149,6 @@
     <li>syrchalis.doormats</li>
     <li>dubwise.dubsmintmenus</li>
     <li>mlie.dismisstrader</li>
-    <li>merthsoft.designatorshapes</li>
     <li>lwm.deepstorage</li>
     <li>mlie.deepstorageplus</li>
     <li>trojan.deathrattle</li>
@@ -180,10 +178,7 @@
     <li>mlie.yayoscombat3</li>
     <li>co.uk.epicguru.whatsthatmod</li>
     <li>automatic.autolinks</li>
-    <li>fluffy.worktab</li>
     <li>taranchuk.performanceoptimizer</li>
-    <li>edb.preparecarefully</li>
-    <li>fluffy.modmanager</li>
   </activeMods>
   <knownExpansions>
     <li>ludeon.rimworld.royalty</li>
