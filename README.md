@@ -23,7 +23,6 @@ stopped desync'ing.
 3. Copy/paste the `Config` and `HugsLib` folders from the zip replacing yours e.g. `C:\Users\%USERPROFILE%\AppData\LocalLow\Ludeon Studios\RimWorld by Ludeon Studios\Config` or in Linux `~/.config/unity3d/Ludeon Studios/RimWorld by Ludeon Studios/Config`
 4. Workshops mods constantly change so pin them by zipping `~/.steam/steam/steamapps/workshop/content/294100/*` and vendoring it to clients to unzip into `~/.steam/steam/steamapps/common/RimWorld/Mods/`. Don't use the "make local copies" as it messes up the mod names and patches are not properly applied.
    To find the dir to put the mods windows go to `Steam -> Library ->Rimworld -> Gear -> Manage -> Show Folder` will be something like `D:\mySteamGames\steamapps\common\RimWorld\Mods` or whatever you use...
-TODO: put a link to the windows version of the above directories.. Probably AppData something something...
 
 You can skip step 4, but it may be possible mod updates will break the MP compat of the pack during a long playthrough.
 Once you are using local versions of the mods, just ignore the mod manager notes about updated versions.
