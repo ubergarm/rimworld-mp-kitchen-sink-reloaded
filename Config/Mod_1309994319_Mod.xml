@@ -1,7 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <SettingsBlock>
 	<ModSettings Class="SmartMedicine.Settings">
-		<stockUp>False</stockUp>
 		<stockUpEnough>1.5</stockUpEnough>
 		<fieldTendingForLackOfBed>True</fieldTendingForLackOfBed>
 	</ModSettings>

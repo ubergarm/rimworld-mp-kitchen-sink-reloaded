@@ -6,6 +6,7 @@
 * remove Dub's Paint Shop because we don't use it and it adds complexity
 * remove Designator Shapes because we don't use it much and it adds complexity (and flood fill may be a loose stair)
 * add Character Editor - don't edit items in MP saves. can use this to bootstrap friends characters into a game etc.
+* change config on Smart Medicine to enable stocking up from pawns gear menu (didn't desync in testing)
 
 ## v0.4
 * remove reinforced structures (already have embrasures for all in concrete walls mod and less obnoxious research)
