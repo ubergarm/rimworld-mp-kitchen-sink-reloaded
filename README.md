@@ -37,35 +37,24 @@ Known source of desyncs:
 * Vanilla Persona Weapons Expanded - changing persona weapon appearence causes desync, reachin baron/baroness and picking a custom persona weapon causes desync (have server do it alone and save)
 * Vanilla Hair Expanded - don't use the barber table (removed it with cherrypicker)
 * Set Up Camp - has bugs with multi-faction multiplayer mode (tested okay with normal mode)
-* Smart Medicine - just to be safe I disabled stock-up in the configs, you can manually pickup some meds to your doc's inventory - maybe fixed but i'm being safe as it was an old issue psure
+* Smart Medicine - disabled stock-up in the configs as it conflicts with vanilla stock-up features and causes desyncs
 * Replace Stuff - don't use replace tool, just place new materials over old ones instead
-* Grazing Lands - chance to destroy grass on consumption must remain 0% - just use default config and should be safe
-* Follow Me - do *not* use the cinematic camera or RNG gets desynced
-* Designator Shapes - "flood fill" causes desyncs
 * Colony Groups - Group Menu -> Work -> Form Caravan desyncs, don't use any features except as a colonist bar replacement
-* Work Tab - don't use favorites menu it may desync
 * Yayo - not known for desyncs, but just to be safe disable ammo as it is just too much more variables
 
 ## Unknown Quantities
 These mods have nothing listed in compatibilty spreadsheet:
 
 * Startup Impact 1.4 - only for testing
-* Mod Error Checker - only for testing
 * Better Surgery - tested okay, failed catastrophic surgery and no desyncs. seems like a good mod!
 * More Slaves - seems okay, didn't fuss while trading
 * Medicines+ 1.4 - hypnotol seems bugged and throws errors but does not desync...
-* The Price is Right - seems okay, didn't fuss while trading
 * Tacticowl - it is listed as supported on MPCompat and its 3x base mods are compat
-* Float Sub-menus - for the searchable menus, so must be okay
-* Searchable Menus - working okay so far, looks great and works well!
 * ResearchPal - 1.4 Repackage - so far so good in very limited testing
 * Invisible Conduit - it used to work, hopefully still fine
-* Incident Person Stat (Continued) - seems okay, just adds more info to existing quest dialogues
 * Holy Washer (Continued) - tested good
-* Heat Map (Continued) - so far so good
 * Grenade Fix - Rearmed - psure the old one was okay
 * Fluffy Breakdowns - should be fine, the old one seemed to work okay
-* Fermenter (Continued) - claims to have native multiplayer support and in limited testing didn't desync
 * Faction Control 1.4 - in limited testing seems okay
 * Deep Storage Plus (Continued) - so far so good, the old one was fine
 
@@ -85,3 +74,6 @@ Copy all configs in linux here:
 ## References
 * [RimWorld Multiplayer Kitchen Sink Reloaded Modpack Steam Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=3174706609)
 * [RimWorld Multiplayer Kitchen Sink Reloaded Modpack GitHub](https://github.com/ubergarm/rimworld-mp-kitchen-sink-reloaded)
+* [RimWorld Multiplayer Discord Compatibility Spreadsheet](https://docs.google.com/spreadsheets/d/1jaDxV8F7bcz4E9zeIRmZGKuaX7d0kvWWq28aKckISaY/edit#gid=1144921800)
+* [Multiplayer-able ModPack by Charlette/NotFood](https://steamcommunity.com/sharedfiles/filedetails/?id=1618452047)
+* [Bear's Multiplayer ModPack](https://steamcommunity.com/sharedfiles/filedetails/?id=2930590984)

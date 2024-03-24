@@ -1,3 +1,23 @@
+## v0.6
+* remove grazing lands as saw some debug logs about it near a desync (not conclusive, but meh)
+* disable smart medicine "stock up" as saw debug logs before many desyncs (and overlaps with vanilla now)
+* remove gear up and go as no longer have its companion mod bettert pawn control anyway
+* remove incident person stat (continued) as its status is unknown
+* remove metals trader as its status is unknown (might be xml and fine but confusing as we're using trading ships)
+* remove exotic arsenal as its status is unknown
+* remove common sense as it isn't on other MP modpacks list
+* remove heat map as status is 3 and thought i saw general errors in debug log
+* remove the price is right its status is unknown
+* remove simple sidearms as other MP modpacks don't have it and already have dual wielding meh
+* remove searchable menus as its status is not known and vanilla has some search bars now it seems
+* remove float sub-menus as it was only a dependency for the above mod
+* remove mod error checker as not sure exactly what it does and status is unknown
+* remove fermenter (continued) as status is not known and not really using it
+* remove follow me as it seems too easy to accidently turn on the cinematic camera which can causes desyncs
+* remove compositable loadout as we don't know how to even use it
+* remove room sense as the debug log throws some error (doesn't desync but whatever)
+* remove Netrve's DeepStorage GUI as getting "DSGUI" spam before "Desynced" grepping Player.log file
+
 ## v0.5
 * remove Fluffy's Work Tab as it seemed to be causing frozen pawns/mechanoids/animals and making clients unable to join while dev log spammed errors. removing it seems to fix.
 * remove Fluffy's Mod Manager as it is not recommended on RimWorld Multiplayer Discord
