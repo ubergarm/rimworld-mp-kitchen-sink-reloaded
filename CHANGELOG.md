@@ -3,7 +3,6 @@
 * disable smart medicine "stock up" as saw debug logs before many desyncs (and overlaps with vanilla now)
 * remove gear up and go as no longer have its companion mod bettert pawn control anyway
 * remove incident person stat (continued) as its status is unknown
-* remove metals trader as its status is unknown (might be xml and fine but confusing as we're using trading ships)
 * remove exotic arsenal as its status is unknown
 * remove common sense as it isn't on other MP modpacks list
 * remove heat map as status is 3 and thought i saw general errors in debug log

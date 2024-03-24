@@ -36,7 +36,7 @@
   <automaticPauseMode>MajorThreat</automaticPauseMode>
   <mapDragSensitivity>1.3</mapDragSensitivity>
   <smoothCameraJumps>True</smoothCameraJumps>
-  <devMode>True</devMode>
+  <devMode>False</devMode>
   <debugActionPalette />
   <devPalettePosition>
     <x>0</x>

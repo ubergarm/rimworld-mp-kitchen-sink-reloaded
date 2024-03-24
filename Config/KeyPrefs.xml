@@ -512,20 +512,6 @@
     </value>
   </li>
   <li>
-    <key>ToggleRoomSenseOverlay</key>
-    <value>
-      <keyBindingA>Equals</keyBindingA>
-      <keyBindingB>None</keyBindingB>
-    </value>
-  </li>
-  <li>
-    <key>ToggleHeatMap</key>
-    <value>
-      <keyBindingA>Backslash</keyBindingA>
-      <keyBindingB>None</keyBindingB>
-    </value>
-  </li>
-  <li>
     <key>MintMenus_MiniMap</key>
     <value>
       <keyBindingA>None</keyBindingA>
@@ -582,27 +568,6 @@
     </value>
   </li>
   <li>
-    <key>CL_OpenLoadoutEditor</key>
-    <value>
-      <keyBindingA>None</keyBindingA>
-      <keyBindingB>None</keyBindingB>
-    </value>
-  </li>
-  <li>
-    <key>CL_OpenTagEditor</key>
-    <value>
-      <keyBindingA>None</keyBindingA>
-      <keyBindingB>None</keyBindingB>
-    </value>
-  </li>
-  <li>
-    <key>CL_PanicButton</key>
-    <value>
-      <keyBindingA>None</keyBindingA>
-      <keyBindingB>None</keyBindingB>
-    </value>
-  </li>
-  <li>
     <key>TMB_ToggleAutoDesignatePlantsCutMode</key>
     <value>
       <keyBindingA>Backslash</keyBindingA>
@@ -653,6 +618,41 @@
   </li>
   <li>
     <key>HotkeyTeleport</key>
+    <value>
+      <keyBindingA>None</keyBindingA>
+      <keyBindingB>None</keyBindingB>
+    </value>
+  </li>
+  <li>
+    <key>ToggleRoomSenseOverlay</key>
+    <value>
+      <keyBindingA>Equals</keyBindingA>
+      <keyBindingB>None</keyBindingB>
+    </value>
+  </li>
+  <li>
+    <key>ToggleHeatMap</key>
+    <value>
+      <keyBindingA>Backslash</keyBindingA>
+      <keyBindingB>None</keyBindingB>
+    </value>
+  </li>
+  <li>
+    <key>CL_OpenLoadoutEditor</key>
+    <value>
+      <keyBindingA>None</keyBindingA>
+      <keyBindingB>None</keyBindingB>
+    </value>
+  </li>
+  <li>
+    <key>CL_OpenTagEditor</key>
+    <value>
+      <keyBindingA>None</keyBindingA>
+      <keyBindingB>None</keyBindingB>
+    </value>
+  </li>
+  <li>
+    <key>CL_PanicButton</key>
     <value>
       <keyBindingA>None</keyBindingA>
       <keyBindingB>None</keyBindingB>
