@@ -526,6 +526,55 @@
     </value>
   </li>
   <li>
+    <key>TMB_ToggleAutoDesignatePlantsCutMode</key>
+    <value>
+      <keyBindingA>Backslash</keyBindingA>
+      <keyBindingB>None</keyBindingB>
+    </value>
+  </li>
+  <li>
+    <key>TG_SlaveMenu</key>
+    <value>
+      <keyBindingA>LeftControl</keyBindingA>
+      <keyBindingB>S</keyBindingB>
+    </value>
+  </li>
+  <li>
+    <key>PerformanceOptimizerKey</key>
+    <value>
+      <keyBindingA>LeftControl</keyBindingA>
+      <keyBindingB>None</keyBindingB>
+    </value>
+  </li>
+  <li>
+    <key>PerformanceOptimizerKeyTWO</key>
+    <value>
+      <keyBindingA>U</keyBindingA>
+      <keyBindingB>None</keyBindingB>
+    </value>
+  </li>
+  <li>
+    <key>MainTab_MedicalTab</key>
+    <value>
+      <keyBindingA>M</keyBindingA>
+      <keyBindingB>None</keyBindingB>
+    </value>
+  </li>
+  <li>
+    <key>HotkeyEditor</key>
+    <value>
+      <keyBindingA>None</keyBindingA>
+      <keyBindingB>None</keyBindingB>
+    </value>
+  </li>
+  <li>
+    <key>HotkeyTeleport</key>
+    <value>
+      <keyBindingA>None</keyBindingA>
+      <keyBindingB>None</keyBindingB>
+    </value>
+  </li>
+  <li>
     <key>MintMenus_BuildMenu</key>
     <value>
       <keyBindingA>None</keyBindingA>
@@ -568,58 +617,9 @@
     </value>
   </li>
   <li>
-    <key>TMB_ToggleAutoDesignatePlantsCutMode</key>
-    <value>
-      <keyBindingA>Backslash</keyBindingA>
-      <keyBindingB>None</keyBindingB>
-    </value>
-  </li>
-  <li>
-    <key>TG_SlaveMenu</key>
-    <value>
-      <keyBindingA>LeftControl</keyBindingA>
-      <keyBindingB>S</keyBindingB>
-    </value>
-  </li>
-  <li>
-    <key>PerformanceOptimizerKey</key>
-    <value>
-      <keyBindingA>LeftControl</keyBindingA>
-      <keyBindingB>None</keyBindingB>
-    </value>
-  </li>
-  <li>
-    <key>PerformanceOptimizerKeyTWO</key>
-    <value>
-      <keyBindingA>U</keyBindingA>
-      <keyBindingB>None</keyBindingB>
-    </value>
-  </li>
-  <li>
-    <key>MainTab_MedicalTab</key>
-    <value>
-      <keyBindingA>M</keyBindingA>
-      <keyBindingB>None</keyBindingB>
-    </value>
-  </li>
-  <li>
     <key>MainTab_kNumbersOverviewTab</key>
     <value>
       <keyBindingA>Z</keyBindingA>
-      <keyBindingB>None</keyBindingB>
-    </value>
-  </li>
-  <li>
-    <key>HotkeyEditor</key>
-    <value>
-      <keyBindingA>None</keyBindingA>
-      <keyBindingB>None</keyBindingB>
-    </value>
-  </li>
-  <li>
-    <key>HotkeyTeleport</key>
-    <value>
-      <keyBindingA>None</keyBindingA>
       <keyBindingB>None</keyBindingB>
     </value>
   </li>

@@ -38,11 +38,8 @@
 			<li>MeleeWeapon_Ikwa</li>
 			<li>VWE_Throwing_Knives</li>
 			<li>VWE_MeleeWeapon_Axe</li>
-			<li>Xedos_BlazeSF</li>
-			<li>Xedos_GlacialSF</li>
 			<li>MeleeWeapon_Knife</li>
 			<li>VPWE_MeleeWeapon_PsyfocusStaffBladelink</li>
-			<li>Xedos_Equilibrium</li>
 			<li>VWEL_Gun_LaserSMG</li>
 			<li>MeleeWeapon_PsyfocusStaff</li>
 			<li>VWEL_LaserSword</li>
@@ -96,9 +93,6 @@
 		</LimitModeSingleMelee_Selection_defNames>
 		<LimitModeSingleRanged_Selection_defNames>
 			<li>VWE_Throwing_Knives</li>
-			<li>Xedos_BlazeSF</li>
-			<li>Xedos_GlacialSF</li>
-			<li>Xedos_Equilibrium</li>
 			<li>VWEL_Gun_LaserSMG</li>
 			<li>VWEL_Gun_LaserPistol</li>
 			<li>VWEL_Gun_SalvagedLaserPistol</li>
