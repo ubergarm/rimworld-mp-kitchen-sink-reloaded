@@ -1,5 +1,13 @@
+## v0.7
+* remove [SYR] Harvest Yield - desyncs seemed to occur when a pawn would harvest or mine and stopped after removing
+* remove Fluffy Animal Tab - possibly just correlation, but possibly opening wildlife/animal tab was desyncing with this
+* remove Numbers - opening the numbers tab was correlated with desyncs
+* remove Dubs Mint Menus - an issue with adding bills was causing desyncs until removing this
+* add in Simple Side Arms again now that things are getting more stable as it was likely fine
+* add in Vanilla Expanded Weapons Heavy Weapons as I just forgot to add it originally
+
 ## v0.6
-* remove grazing lands as saw some debug logs about it near a desync (not conclusive, but meh)
+* remove grazing lands as saw some debug logs about it near a desync (could possibly use [KIT] Graze Up instead?)
 * disable smart medicine "stock up" as saw debug logs before many desyncs (and overlaps with vanilla now)
 * remove gear up and go as no longer have its companion mod bettert pawn control anyway
 * remove incident person stat (continued) as its status is unknown

@@ -75,5 +75,5 @@ Copy all configs in linux here:
 * [RimWorld Multiplayer Kitchen Sink Reloaded Modpack Steam Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=3174706609)
 * [RimWorld Multiplayer Kitchen Sink Reloaded Modpack GitHub](https://github.com/ubergarm/rimworld-mp-kitchen-sink-reloaded)
 * [RimWorld Multiplayer Discord Compatibility Spreadsheet](https://docs.google.com/spreadsheets/d/1jaDxV8F7bcz4E9zeIRmZGKuaX7d0kvWWq28aKckISaY/edit#gid=1144921800)
-* [Multiplayer-able ModPack by Charlette/NotFood](https://steamcommunity.com/sharedfiles/filedetails/?id=1618452047)
+* [Multiplayer-able ModPack by Charlotte/NotFood](https://steamcommunity.com/sharedfiles/filedetails/?id=1618452047)
 * [Bear's Multiplayer ModPack](https://steamcommunity.com/sharedfiles/filedetails/?id=2930590984)
