@@ -2,14 +2,15 @@
 * disable Search and Destroy from the Tacticowl mod (but leave it installed as it is a set of 3x mods)
 * remove  797360572 Grenade Fix Rearmed as it is an unknown quantity (and thought we saw some odd error messages on GZ using EMP)
 * remove 1729446857 Time of Day Switches as the MPCompat patch seems old https://github.com/rwmt/Multiplayer-Compatibility/issues/434
-* remove 726244033 Fluffy Breakdowns as the 1.3 version was confirmed compatible, but not the 1.4 nor new 1.5 Update fork reupload.. on the fence about this but meh...
+* remove  726244033 Fluffy Breakdowns as the 1.3 version was confirmed compatible, but not the 1.4 nor new 1.5 Update fork reupload.. on the fence about this but meh...
 * remove 2021510577 [SYR] more slaves as it is an unknown quantity (and [SYR] harvest yield seemed to cause desyncs)
-* remove 1508778962 [SYR] Door Matts as it is an unknown quantity and seeing desync traces about FilthTracker which ?may? be correlated?
+* remove 1508778962 [SYR] Door Mats as it is an unknown quantity and seeing desync traces about FilthTracker which ?may? be correlated?
 * add    1505423207 Door Mat as it is used in other MP modpacks and is rated 4 https://steamcommunity.com/sharedfiles/filedetails/?id=1505423207
 * remove 1190364506 Invisible Conduit (previous 1.3 version used to be compatible xml, but this version now has a DLL and is an unknown quantity
 * add    1735421319 Underground Conduit or Subsurface Conduit - same steel cost but more work for underground
 * add     838336462 Conduit Deconstruct - more easy to remove groups of conduits
 * add    2952716728 Power Tab 2 - simple GUI to see details on power grid producers and consumers
+* custom-patch Nomad Scavanger Mod that was breaking Manage Outfits menu due to HackingSpeed without Ideology mod. Details: https://gist.github.com/ubergarm/f9d3e4751cdbe6e34bfa1bfa9d05075a
 
 ## v0.7
 * remove [SYR] Harvest Yield - desyncs seemed to occur when a pawn would harvest or mine and stopped after removing
