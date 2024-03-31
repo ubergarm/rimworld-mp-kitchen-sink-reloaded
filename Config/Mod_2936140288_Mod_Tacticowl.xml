@@ -26,6 +26,7 @@
 		<rangedXOffset>0.100000001</rangedXOffset>
 		<meleeZOffset>0.0900000036</meleeZOffset>
 		<rangedZOffset>0</rangedZOffset>
+		<searchAndDestroyEnabled>False</searchAndDestroyEnabled>
 		<projectileSpeedMulti>1</projectileSpeedMulti>
 	</ModSettings>
 </SettingsBlock>
