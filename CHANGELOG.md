@@ -1,3 +1,13 @@
+## v0.9
+* add Ideology DLC (because i thrive in chaos lmaooo)
+* remove 2379076640 More Faction Interaction (would desync calculating the random gift left behind after trader left)
+* remove 2878860499 Medicines+ 1.4 (probably never should have included, has at least one messed up HeDiff)
+* remove  870089952 cleaning area (probably fine, but pulling out my hair with the FilthTracker desync)
+* remove 2809972387 Better Ground Penetrating Scanner
+* add    2619652663 Smart Farming (gotta say I'm impressed with Owlchemist's work)
+* reconfigure Infused to lowest possible chance as on our current save it desyncs (likely not Infused itself, but our save is getting janky)
+* undo custom Nomad Scavanger Mod Patch as now HackingSpeed exists with Ideology enabled `<!-- <HackingSpeed>0.2</HackingSpeed> -->`
+
 ## v0.8
 * disable Search and Destroy from the Tacticowl mod (but leave it installed as it is a set of 3x mods)
 * remove  797360572 Grenade Fix Rearmed as it is an unknown quantity (and thought we saw some odd error messages on GZ using EMP)
