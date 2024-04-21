@@ -208,4 +208,6 @@
   <mod packageId="Owlchemist.UndergroundPowerConduits" />
   <mod packageId="TheWireLord354.ConduitDeconstruct" />
   <mod packageId="Owlchemist.PowerTab" />
+  <mod packageId="Ludeon.RimWorld.Ideology" />
+  <mod packageId="Owlchemist.SmartFarming" />
 </Mods>

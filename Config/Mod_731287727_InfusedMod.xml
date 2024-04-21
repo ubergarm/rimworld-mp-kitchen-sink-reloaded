@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <SettingsBlock>
 	<ModSettings Class="Infused.Settings">
-		<ChanceMult>1</ChanceMult>
+		<ChanceMult>1.00000001E-10</ChanceMult>
 		<ChanceBias>0.5</ChanceBias>
 		<WeightArtifact>0.031750001</WeightArtifact>
 		<WeightLegendary>0.0625</WeightLegendary>

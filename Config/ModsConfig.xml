@@ -6,6 +6,7 @@
     <li>ludeon.rimworld</li>
     <li>automatic.startupimpact</li>
     <li>ludeon.rimworld.royalty</li>
+    <li>ludeon.rimworld.ideology</li>
     <li>ludeon.rimworld.biotech</li>
     <li>rwmt.multiplayer</li>
     <li>rwmt.multiplayercompatibility</li>
@@ -23,7 +24,6 @@
     <li>neceros.animalmedicalbed</li>
     <li>com.bymarcin.architecticons</li>
     <li>razor2.3.anotherrimworldmod.autocutblight</li>
-    <li>kikohi.bettergroundpenetratingscanner</li>
     <li>gege.bettersurgery</li>
     <li>dubwise.rimatomics</li>
     <li>dubwise.dubsskylights</li>
@@ -31,6 +31,7 @@
     <li>vat.epoeforked</li>
     <li>cocaine.electricstonecuttingtable</li>
     <li>mlie.sticklantern</li>
+    <li>owlchemist.smartfarming</li>
     <li>petetimessix.simplesidearms</li>
     <li>twistedpacifist.reasonablecomponents</li>
     <li>radzerp.naturalpaths</li>
@@ -41,12 +42,10 @@
     <li>zal.moretradeships</li>
     <li>notfood.morethancapable</li>
     <li>navyseal5.moreharvestdesignators</li>
-    <li>mlie.morefactioninteraction</li>
     <li>haplo.miscellaneous.training</li>
     <li>erdelf.minifyeverything</li>
     <li>bigveech.metalstrader</li>
     <li>notfood.mendandrecycle</li>
-    <li>teddraws.medicinesplus.at</li>
     <li>mlie.mechanoidsdropguns</li>
     <li>uuugggg.mealsonwheels</li>
     <li>pyrce.mass.graves</li>
@@ -139,7 +138,6 @@
     <li>mawy.craftable</li>
     <li>porohkun.concretewalls</li>
     <li>consolidatedtraits.lc.rw</li>
-    <li>hatti.cleaningarea</li>
     <li>daniledman.combatupdate</li>
     <li>derekbickley.ltocolonygroupsfinal</li>
     <li>mlie.centralizedclimatecontrol</li>
@@ -163,5 +161,6 @@
   <knownExpansions>
     <li>ludeon.rimworld.royalty</li>
     <li>ludeon.rimworld.biotech</li>
+    <li>ludeon.rimworld.ideology</li>
   </knownExpansions>
 </ModsConfigData>
